@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{ACDCFDA9-7D98-A119-31F6-88BE3BAEE758}") = "PackingGame", "Assembly-CSharp.csproj", "{B96231A8-1F09-53B1-0C9D-468BEF3512DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B96231A8-1F09-53B1-0C9D-468BEF3512DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B96231A8-1F09-53B1-0C9D-468BEF3512DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B96231A8-1F09-53B1-0C9D-468BEF3512DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B96231A8-1F09-53B1-0C9D-468BEF3512DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
